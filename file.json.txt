@@ -1,0 +1,56 @@
+﻿{
+  "sources": [
+    {
+      "name": "AppTesters IPA Repo",
+      "url": "https://repo.apptesters.org/"
+    },
+    {
+      "name": "CyPwn IPA Library",
+      "url": "https://ipa.cypwn.xyz/cypwn.json"
+    },
+    {
+      "name": "CyPwn Trollstore Library",
+      "url": "https://ipa.cypwn.xyz/cypwn_ts.json"
+    },
+    {
+      "name": "Qn_'s AltStore Repo",
+      "url": "https://qnblackcat.github.io/AltStore/apps.json"
+    },
+    {
+      "name": "MovieBoxPro for AltStore",
+      "url": "https://hann8n.github.io/"
+    },
+    {
+      "name": "WuXu's Library",
+      "url": "https://wuxu1.github.io/wuxu-complete.json"
+    },
+    {
+      "name": "WuXu's Library++",
+      "url": "https://wuxu1.github.io/wuxu-complete-plus.json"
+    },
+    {
+      "name": "OatmealDome's AltStore Source",
+      "url": "https://altstore.oatmealdome.me/"
+    },
+    {
+      "name": "SideStore Team Picks",
+      "url": "https://community-apps.sidestore.io/sidecommunity.json"
+    },
+    {
+      "name": "Burrito's AltStore",
+      "url": "https://burritosoftware.github.io/altstore/channels/burritosource.json"
+    },
+    {
+      "name": "iSH",
+      "url": "https://ish.app/altstore.json"
+    },
+    {
+      "name": "driftywinds' AltStore Repo",
+      "url": "https://driftywinds.github.io/AltStore/apps.json"
+    },
+    {
+      "name": "EeveeSpotify",
+      "url": "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/repo.json"
+    }
+  ]
+}
